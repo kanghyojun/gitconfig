@@ -15,3 +15,5 @@ ExplorerTest/*
 .vscode
 
 .envrc
+
+*.swp
