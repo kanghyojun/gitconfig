@@ -1,10 +1,10 @@
 [core]
-	excludesfile = /Users/hyojun/.gitignore_global
+  excludesfile = /Users/hyojun/.gitignore_global
 
 [user]
   name = Kang Hyojun
   useConfigOnly = true
-	email = iam.kanghyojun@gmail.com
+  email = iam.kanghyojun@gmail.com
 
 [alias]
   sw = switch
