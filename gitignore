@@ -1,0 +1,17 @@
+.venv/
+
+t.py
+
+out/
+
+.ignore
+
+.node-version
+
+.python-version
+
+ExplorerTest/*
+
+.vscode
+
+.envrc

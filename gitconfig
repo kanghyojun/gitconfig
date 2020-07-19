@@ -1,0 +1,25 @@
+[core]
+	excludesfile = /Users/hyojun/.gitignore_global
+
+[user]
+  name = Kang Hyojun
+  useConfigOnly = true
+	email = iam.kanghyojun@gmail.com
+
+[alias]
+  sw = switch
+  ci = commit -s
+  fap = fetch --all -p
+  F = fzf
+  dif = diff
+  d = diff
+  his = log
+  st = status
+  s = status
+  l = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%C(bold blue)<%an>%Creset' --abbrev-commit
+  co = checkout
+  dc = diff --cached
+  ap = add -p
+
+[color]
+  ui = true
