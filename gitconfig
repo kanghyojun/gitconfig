@@ -10,6 +10,7 @@
   sw = switch
   ci = commit -s
   fap = fetch --all -p
+  ri = rebase -i
   F = fzf
   dif = diff
   d = diff
