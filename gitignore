@@ -17,3 +17,5 @@ ExplorerTest/*
 .envrc
 
 *.swp
+
+.idea
